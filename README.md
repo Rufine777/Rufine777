@@ -8,11 +8,6 @@
 - 🎯 Goal: Become a top developer, create impactful startups, and land a job at Google by 22!
 - 🛠️ Always experimenting, learning, and building.
 
-- ### 📫 Let's Connect
-
-- 💼 **[LinkedIn](www.linkedin.com/in/ajultm )**  
-- 💬 **Discord**: rufine_777  
-
 
 <!--
 **Rufine777/Rufine777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
