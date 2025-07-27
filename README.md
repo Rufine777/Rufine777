@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Ajul T.M 👋
+
+🎓 I'm a first-year B.Tech CSE (AI) student at Amrita Vishwa Vidyapeetham, passionate about building real-world tech solutions and growing into a future tech giant 🚀.
+
+### 💡 About Me
+- 🧠 I love solving problems, building apps, and exploring how things work — from AI to cybersecurity and reverse engineering.
+- 🌱 Currently learning: Python, Java, Linux, Git, and Reverse Engineering basics.
+- 🎯 Goal: Become a top developer, create impactful startups, and land a job at Google by 22!
+- 🛠️ Always experimenting, learning, and building.
+
+- ### 📫 Let's Connect
+
+- 💼 **[LinkedIn](www.linkedin.com/in/ajultm )**  
+- 💬 **Discord**: rufine_777  
+
 
 <!--
 **Rufine777/Rufine777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
