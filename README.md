@@ -1,25 +1,35 @@
-## Hi there, I'm Ajul T.M 👋
+# Hi there, I'm Ajul T.M 👋  
 
-🎓 I'm a first-year B.Tech CSE (AI) student at Amrita Vishwa Vidyapeetham, passionate about building real-world tech solutions and growing into a future tech giant 🚀.
+🎓 First-year 18 year old **B.Tech CSE (AI)** student at *Amrita Vishwa Vidyapeetham*.  
+🚀 Passionate about building **real-world tech solutions** and growing into a **future tech giant**.  
 
-### 💡 About Me
-- 🧠 I love solving problems, building apps, and exploring how things work — from AI to cybersecurity and reverse engineering.
-- 🌱 Currently learning: Python, Java, Linux, Git, and Reverse Engineering basics.
-- 🎯 Goal: Become a top developer, create impactful startups, and land a job at Google by 22!
-- 🛠️ Always experimenting, learning, and building.
+---
 
+## 💡 About Me  
+- 🧠 Love solving problems, building apps, and exploring how things work — from **AI to Cybersecurity & Reverse Engineering**.  
+- 🌱 Currently learning: **Python | Java | Linux | Git | Reverse Engineering basics**.  
+- 🎯 Goal: Become a **top developer**, create impactful **startups**, and land a **job at Google by 22**.  
+- 🛠️ Always experimenting, learning, and building.  
 
-<!--
-**Rufine777/Rufine777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages & Tools I Know  
+- **Python** 🐍 (basics, problem solving, DS & algorithms)  
+- **C** ⚙️ (foundations, arrays, loops, pointers)  
+- **Git & GitHub** 🌐 (version control, collaboration)  
+- **HTML & CSS** 🎨 (web basics)  
+
+### 📚 Currently Learning & Exploring  
+- **Java** ☕ (OOP, app development)  
+- **Linux** 🐧 (commands, system fundamentals)  
+- **Reverse Engineering** 🔍 (beginner CTFs, low-level understanding)  
+
+---
+
+## 🎯 Vision  
+⚡ Consistently upskill → Build a strong portfolio → Launch startups → Mentor others  
+💼 Land at **Google by 22** 🚀  
+
+---
